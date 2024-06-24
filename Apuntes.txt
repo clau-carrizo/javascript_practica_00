@@ -1,0 +1,5 @@
+// Ingresar a la carpeta principal
+* code ./ -r
+
+* git push
+*
